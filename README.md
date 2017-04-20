@@ -1,5 +1,8 @@
 # clean_desktop
 
+![](https://github.com/larryschirmer/clean_desktop/raw/master/clean_desktop.gif)
+[HighRes Video Version - hosted on my evernote](https://www.evernote.com/l/ACUCR11Q6zxIu55jYEc6fNhy6ehR3aC1HCI)
+
 ## Project Desciption 
 
 I often work of different projects at the same time that take the working space on my desktop. I wanted to dedicate the desktop to each project. 
